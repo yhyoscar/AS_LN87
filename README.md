@@ -1,4 +1,4 @@
-# One-layer trade cumulus boudary layer model
+# One-layer trade cumulus boundary layer model
 
 Author:   Haiyang Yu
 Email:    yhyoscar@gmail.com
